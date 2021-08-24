@@ -1,4 +1,4 @@
-package oops.oops.overloading;
+package oops.overloading;
 
 
 //There are two ways to overload the method in java
